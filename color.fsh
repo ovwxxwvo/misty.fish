@@ -45,7 +45,7 @@
   set -g  fish_color_match                     "3080d0"
 
   set -g  fish_pager_color_completion          "b0b0b0"
-  set -g  fish_pager_color_description         "50b0b0"
+  set -g  fish_pager_color_description         "normal"
   set -g  fish_pager_color_prefix              "80b050"
   set -g  fish_pager_color_selected_prefix     "b0ff60"
 

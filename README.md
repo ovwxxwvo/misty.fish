@@ -124,7 +124,7 @@ Your app, Your rule. Feel free to modify the files.
 - Also a little transparency in the terminal emulator, about 80%|90%.  
 
 & some personal preference settings inside the plugin, change it to your own.  
-- dark  cyan     `#0d1a1a` as the bg color for  `fish`.  
+- dark  orange   `#1a140d` as the bg color for  `fish`.  
 - dark  violet   `#140d1a` as the bg color for  `sudo`.  
 
 你的应用，你说了算。不要害怕修改文件。  
@@ -134,7 +134,7 @@ Your app, Your rule. Feel free to modify the files.
 - 且一点透明度在终端模拟器中，大约 80%|90%。  
 
 & 一些在插件内部的个人喜好设定，更换为你的喜好。  
-- 深青色 `#0d1a1a` 作为  `fish`  的背景色。  
+- 深橙色 `#1a140d` 作为  `fish`   的背景色。  
 - 深紫色 `#140d1a` 作为  `sudo`  的背景色。  
 
 ----  
