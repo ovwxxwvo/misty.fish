@@ -4,15 +4,16 @@
 
 
 # set prompt color up
-  set -g  color_time    "b0b0b0"
-  set -g  color_user    "5080b0"
-  set -g  color_host    "50b080"
-  set -g  color_at      "b0b0b0"
-  set -g  color_pwd     "b0b050"
   set -g  color_pipe    "8050b0"
+  set -g  color_time    "b0b0b0"
+  set -g  color_root    "b050b0"
+  set -g  color_user    "50b080"
+  set -g  color_host    "5080b0"
+  set -g  color_pwd     "b0b050"
+  set -g  color_at      "b0b0b0"
 
 # set prompt color dn
-  set -g  color_hash    "b05050"
+  set -g  color_hash    "ff6060"
   set -g  color_con_up  "b0b0b0"
   set -g  color_con_dn  "b0b0b0"
 
@@ -44,7 +45,7 @@
   set -g  fish_color_match                     "3080d0"
 
   set -g  fish_pager_color_completion          "b0b0b0"
-  set -g  fish_pager_color_description         "d0a070"
+  set -g  fish_pager_color_description         "50b0b0"
   set -g  fish_pager_color_prefix              "80b050"
   set -g  fish_pager_color_selected_prefix     "b0ff60"
 

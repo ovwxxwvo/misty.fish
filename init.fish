@@ -3,8 +3,9 @@
 # Last Change: 2024.11.20
 
 
-source  ~/.config/fish/plugins/misty.fish/color.fsh
-source  ~/.config/fish/plugins/misty.fish/style.fsh
-source  ~/.config/fish/plugins/misty.fish/prompt.fsh
+set  plugin  "$HOME/.config/fish/plugins"
+source  $plugin/misty.fish/color.fsh
+source  $plugin/misty.fish/style.fsh
+source  $plugin/misty.fish/prompt.fsh
 
 
