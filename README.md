@@ -18,7 +18,8 @@ The following config file path base on `Arch Linux`.
 
 Clone the repo to your fish config dir :  
 ```  
-git clone https://github.com/ovwxxwvo/misty.fish.git ~/.config/fish/plugins/  
+cd ~/.config/fish/plugins/  
+git clone https://github.com/ovwxxwvo/misty.fish.git  
 ```  
 Add this line to your fish config file `~/.config/fish/config.fish` :  
 ```  
